@@ -68,6 +68,7 @@ backend web_servers    # секция бэкенд
 
 6.Обращение к серверу с заголовком
 ![image](https://github.com/dimindrol/pergunovd_claster-balance/assets/103885836/fc5456b6-6413-4fb9-ae64-7ebf3105262c)
+
 7. Статистика сервера 
 
 ![image](https://github.com/dimindrol/pergunovd_claster-balance/assets/103885836/d90bca11-daaf-4088-9dc5-cd61a6092a0c)
