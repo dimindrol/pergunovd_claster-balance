@@ -2,7 +2,10 @@
 
 ### Задание 1
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
+1. Запустили два python3 сервера
+![image](https://github.com/dimindrol/pergunovd_claster-balance/assets/103885836/eab0099c-c602-427f-8793-dd6551b7e8d4)
+2. Установите и настроили HAProxy
+3. 
 
 
 ```
