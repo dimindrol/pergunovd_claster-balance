@@ -49,7 +49,6 @@ listen stats  # веб-страница со статистикой
 frontend example  # секция фронтенд
         mode http
         bind :8088
-        #default_backend web_servers
         acl ACL_example.com hdr(host) -i example.com
         use_backend web_servers if ACL_example.com
 
